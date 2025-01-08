@@ -9,7 +9,7 @@ A player can only move a checker to an empty location or to location where he al
 Hitting is not permitted.
 Doubles are not part of the game.
 
-#Winner
+# Winner
 The winner is the first player who brings all it's checkers to his "home" quarter (unlike regular backgammon where after you bring all the pawn to your home quarter you also need to bear the checkers off). 
 
 # TODO:
